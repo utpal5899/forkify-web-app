@@ -81,5 +81,6 @@ const init = function () {
   searchview.addHandlersearch(controlsearchresult);
   recipeView.addhandleraddbookmark(controladdbookmark);
   addrecipeview.addHandlerUpload(controlAddRecipe);
+  alert("seiafhoseaihfoshfaosihfosahfoshifsahfiudhfsahdfsahfssuihioejsoifjos")
 };
 init();
